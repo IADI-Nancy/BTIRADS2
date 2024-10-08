@@ -1,5 +1,5 @@
 """'The nested cross-validation and feature selection pipeline are adapted from
- https://github.com/TimZaragori/Sklearn_NestedCV/tree/master"""
+ https://github.com/IADI-Nancy/Sklearn_NestedCV"""
 
 import string
 import warnings

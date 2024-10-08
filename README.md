@@ -65,4 +65,4 @@ where `<input_file>` is the path to the formatted data input excel file (e.g. 'd
 
 ## References
 
-The nested cross-validation and feature selection pipelines were adapted from the following public repository with MIT license: https://github.com/TimZaragori/Sklearn_NestedCV/tree/master. 
+The nested cross-validation and feature selection pipelines were adapted from the following public repository with MIT license: https://github.com/IADI-Nancy/Sklearn_NestedCV. 
